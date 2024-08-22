@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: rpart 3.1-24\n"
 "Report-Msgid-Bugs-To: sourcestringbugs.o40l9j@zapiermail.com\n"
 "POT-Creation-Date: 2012-11-22 09:24\n"
-"PO-Revision-Date: 2024-08-22 08:31+0000\n"
+"PO-Revision-Date: 2024-08-23 18:31+0000\n"
 "Last-Translator: Christian Wiat <w9204-rs@yahoo.com>\n"
 "Language-Team: French <R-core@r-project.org>\n"
 "Language: fr\n"
@@ -46,7 +46,7 @@ msgid "'x' must be an \"rpart\" object"
 msgstr "'x' doit être un objet \"rpart\""
 
 msgid "Invalid type of residual"
-msgstr "Type de résidus inconnus"
+msgstr "Type inconnu de résidus"
 
 msgid "Not legitimate \"rpart\" tree and endpoint not a 2 level-factor"
 msgstr "Arbre \"rpart\" inapproprié et feuille de l'arbre différente d'un facteur à 2 niveaux"
@@ -61,7 +61,7 @@ msgid "negative weights not allowed"
 msgstr "les pondérations négatives ne sont pas autorisées"
 
 msgid "Invalid method"
-msgstr "Methode incorrecte"
+msgstr "Méthode incorrecte"
 
 msgid "Argument %s not matched"
 msgstr "L'argument %s est inconnu"
@@ -112,22 +112,25 @@ msgid "Loss matrix has a row of zeros"
 msgstr "La 'loss matrix' a une ligne complète de zéros"
 
 msgid "Invalid splitting rule"
-msgstr "Règle de séparation des groupes incorrecte"
+msgstr "Règle incorrecte de séparation des groupes"
 
 msgid "Parameter argument must be a list"
 msgstr "L'argument 'parameter' doit être une liste"
 
 msgid "The value of 'maxcompete' supplied is < 0; the value 0 was used instead"
-msgstr "La valeur de 'maxcompete' fournie est < 0 ; la valeur 0 sera utilisée à la place"
+msgstr ""
+"La valeur de 'maxcompete' fournie est < 0 ; la valeur 0 est utilisée à la "
+"place"
 
 msgid "The value of 'xval' supplied is < 0; the value 0 was used instead"
-msgstr "La valeur de 'xval' fournie est < 0 ; la valeur 0 sera utilisée à la place"
+msgstr ""
+"La valeur de 'xval' fournie est < 0 ; la valeur 0 est utilisée à la place"
 
 msgid "Maximum depth is 30"
 msgstr "La profondeur maximale est de 30"
 
 msgid "Maximum depth must be at least 1"
-msgstr "La profondeur maximale doit être au moins 1"
+msgstr "La profondeur maximale doit être au moins de 1"
 
 msgid "The value of 'usesurrogate' supplied was out of range, the default value of 2 is used instead."
 msgstr "La valeur de 'usesurrogate' fournie est hors plage, la valeur par défaut de 2 est utilisée à la place."
