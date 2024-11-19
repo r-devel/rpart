@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: rpart 4.1-8\n"
 "Report-Msgid-Bugs-To: sourcestringbugs.o40l9j@zapiermail.com\n"
 "POT-Creation-Date: 2015-01-16 07:53\n"
-"PO-Revision-Date: 2024-06-19 13:20+0000\n"
-"Last-Translator: Ricardo Villalba <rikivillalba@gmail.com>\n"
+"PO-Revision-Date: 2024-11-19 21:41+0000\n"
+"Last-Translator: Paola Corrales <paobcorrales@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.16.4\n"
 
-#, fuzzy
 msgid "'x' must be a numeric vector"
 msgstr "'x' debe ser un vector numérico"
 
