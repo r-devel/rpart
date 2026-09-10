@@ -28,8 +28,8 @@
     the \code{rpart} object is a classification tree, then the default is to
     return \code{prob} predictions, a matrix whose columns are the
     probability of the first, second, etc. class.  (This agrees with the
-    default behavior of \code{\link[tree]{tree}}).  Otherwise, a vector
-    result is returned.
+    default behavior of \code{tree} in the original \code{tree} package).  
+    Otherwise, a vector result is returned.
   }
   \item{na.action}{a function to determine what should be done with
     missing values in \code{newdata}.  The default is to pass them down
